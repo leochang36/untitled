@@ -1,0 +1,6 @@
+a=float(input('请输入第一个数字：'))
+b=float(input('请输入第二个数字：'))
+print ('两数之和为：',a+b)
+print ('两数之差为：',a-b)
+print ('两数之积为：',a*b)
+print ('两数之商为：',a/b)
